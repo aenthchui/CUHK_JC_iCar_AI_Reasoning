@@ -8,17 +8,10 @@
     },
     "files": [
         "README.md",
-        "main.ts",
+        "main.ts"
     ],
     "testFiles": [
         
     ],
-    "targetVersions": {
-        "target": "4.0.16",
-        "targetId": "microbit"
-    },
-    "supportedTargets": [
-        "microbit"
-    ],
-    "preferredEditor": "tsprj"
+    "public": true
 }

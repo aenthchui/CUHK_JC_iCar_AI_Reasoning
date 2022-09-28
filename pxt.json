@@ -1,0 +1,24 @@
+{
+    "name": "CUHK-JC-iCar_AI_Reasoning",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "CUHK-JC-iCar": "github:hitkuangye/CUHK_JC_iCar_V2"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+    ],
+    "testFiles": [
+        
+    ],
+    "targetVersions": {
+        "target": "4.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

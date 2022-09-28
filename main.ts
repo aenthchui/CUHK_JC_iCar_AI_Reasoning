@@ -1,4 +1,4 @@
-//% color="#EC7482" weight=5 icon="\uf085" block="CUHK-JC iCar Extension"
+//% color="#EC7482" weight=5 icon="\uf2e7" block="CUHK_JC_iCar_Delivery"
 
 namespace CUHK_JC_iCar_Delivery{ 
 

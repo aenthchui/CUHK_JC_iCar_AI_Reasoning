@@ -1,7 +1,7 @@
 //% color="#EC7482" weight=4 icon="\uf2e7" block="CUHK_JC_iCar_Delivery"
 
 namespace CUHK_JC_iCar_Delivery{ 
-  Current_Location = 0
+  let Current_Location = 0
   export enum reason {
       //% block="Skill-based"
       skill = 1,
